@@ -1,0 +1,20 @@
+{
+  "name": "arabamproje",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "gulp-watch": "^5.0.1",
+    "npm": "^6.3.0"
+  }
+}
